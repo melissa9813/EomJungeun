@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Jungeun (Melissa)'s Github Pages
 
-You can use the [editor on GitHub](https://github.com/melissa9813/EomJungeun.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm currently studying several programming languages. I'm planning to study data mining and machine learning.
+Python, Java, MySQL are what I'm currently working on, and I'm also studying really basic level of machine learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hope people who are trying to begin to study programmings from nothing like me could find helpful in this pages.
+I will record my studying history from now on; it might be really basic....
 
-### Markdown
+I would like to pursue my studying so that I can finally master machine learning within years. (I'm a college freshman so hopefully by my senior years)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Following are my process. 
 
-```markdown
-Syntax highlighted code block
+### Python
 
-# Header 1
-## Header 2
-### Header 3
+Finished the basic syntax.
+Planning to solve a bunch of problems to practice.
+Planning to start learning numpy and pandas next month.
 
-- Bulleted
-- List
+### Java
+Currently studying and solving the java basic problems.
 
-1. Numbered
-2. List
+### MySQL
+Finsihed studying the basic syntax of MySQL.
+Planning to study the advanced level.
+Planning to working on real-world problem in two months.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melissa9813/EomJungeun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Machine Learning
+Just began to study "Hands-on Machine Learnign with Scikit-Learn & Tensorflow"
+Hard to understand for me with basic level of Python.
+Will repeat this book several times.
